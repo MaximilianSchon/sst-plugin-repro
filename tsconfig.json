@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "plugins": [{ "name": "ts-sst-plugin" }]
+    },
+    "include": ["infra/**.ts"]
+}
